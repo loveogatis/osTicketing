@@ -1,14 +1,13 @@
 # Azure
 # 🚀 Project: Configure Virtual Machines in Azure
 
-A comprehensive, one-line summary of what this project does.
 
  📋 Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [License](#license)
+- [Next Project](#next-project)
+  
 
 ## 🔍 About the Project
 Configure Virtual Machine in Azure within resource group. Create two Virtual Machines to create a lab where I test ping between VM. 
@@ -25,20 +24,42 @@ Provide step-by-step instructions on how to get a local copy of your project up 
 Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=get-started&ref=www.google.com&hasfullconsent=true
 
 ```
-<p align="center"> 
-	<img src="step1.png" height="80%" width="80%" alt="Resource Groups"/> 
-</p> 
+
+
+
+
 <h3>Step 1: Create Resource Group</h3>
 
 - Under main tab or home tab
 	- Hover under Resource Groups > Click Create 
 
+<p align="center"> 
+	<img src="1-create-resource.png" height="80%" width="80%" alt="Resource Groups"/> 
+</p> 
+
+<h3>Step 2: Create a Windows 10 Virtual Machine(VM)</h3>
+
+- 
+	- 
 
 <p align="center">
-<img src="https://i.imgur.com/0On2vKd.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/V4p94mP.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="1-create-resource.png" height="80%" width="80%" alt="Resource Group"/> 
 </p>
 
+<h3>Step 3: Create a Linux(Ubuntu)VM</h3>
+
+- 
+	-  
+
+<p align="center">
+<img src="1-create-resource.png" height="80%" width="80%" alt="Resource Group"/> 
+</p>
+
+<h3>Step 3: Recap and Check Virtual Network & Subnet allow</h3>
+
+- 
+	- 
 
 
-💡 Usage
-Show examples of how to run or use the project. You can include code snippets or links to screenshots here.
+## 💡 Next project
+Will be observing ICMP Traffic & Configuring Firewall 
