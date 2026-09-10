@@ -10,7 +10,7 @@
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Next Project](#next-project)
+- [Next Project](#next)
   
 
 ## 🔍 About the Project
@@ -66,6 +66,6 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 
 
 
-## 💡 Next project
+## 💡 Next 
 
 Will be observing ICMP Traffic & Configuring Firewall 
