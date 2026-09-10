@@ -22,7 +22,7 @@ Configure Virtual Machine in Azure within resource group. Create two Virtual Mac
 Provide step-by-step instructions on how to get a local copy of your project up and running.
 
 ```bash
-# Clone the repository
+Clone the repository
 git clone https://github.com
 
 # Install dependencies
