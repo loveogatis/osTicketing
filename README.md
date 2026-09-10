@@ -26,7 +26,7 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 
 ```
 <p align="center"> 
-	<img src="/Users/YourMacUsername/Desktop/stepone1.png" height="80%" width="80%" alt="Azure Free Account"/> 
+	<img src="/Users/YourMacUsername/Desktop/step1.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p> <h3>Step 3: Download, Install, and Open the Web Platform Installer
 </h3>
 
