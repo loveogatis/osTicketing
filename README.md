@@ -20,6 +20,15 @@ Configure Virtual Machine in Azure within resource group. Create two Virtual Mac
 
 ## 🚀 Getting Started
 Provide step-by-step instructions on how to get a local copy of your project up and running.
+
+```bash
+Clone the repository 
+git clone https://github.com
+
+
+# Install dependencies
+npm install
+```
 <p align="center"> <img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p> <h3>Step 3: Download, Install, and Open the Web Platform Installer
 </h3>
@@ -34,14 +43,6 @@ Provide step-by-step instructions on how to get a local copy of your project up 
 </p>
 
 
-```bash
-Clone the repository 
-git clone https://github.com
-
-
-# Install dependencies
-npm install
-```
 
 💡 Usage
 Show examples of how to run or use the project. You can include code snippets or links to screenshots here.
