@@ -65,5 +65,7 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 	- 
 
 
+
 ## 💡 Next project
+
 Will be observing ICMP Traffic & Configuring Firewall 
