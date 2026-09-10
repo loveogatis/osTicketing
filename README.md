@@ -24,6 +24,22 @@ Provide step-by-step instructions on how to get a local copy of your project up 
 ```bash
 Clone the repository
 git clone https://github.com
+<p align="center">
+<img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
+</p>
+
+
+<h3>Step 3: Download, Install, and Open the Web Platform Installer
+</h3>
+
+- osTicket Installation Files [link](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+	- Download Web Platform Installer > select Download Anyway > at the top right, select Open File
+	- Follow the prompt to install Web Platform Installer
+	- Open the Web Platform Installer
+
+<p align="center">
+<img src="https://i.imgur.com/0On2vKd.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/V4p94mP.png" height="80%" width="80%" alt="Azure Free Services"/>
+</p>
 
 # Install dependencies
 npm install
