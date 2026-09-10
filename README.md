@@ -1,5 +1,5 @@
-# osTicketing
-# 🚀 Project: osTicketing system Life cycle
+# Azure
+# 🚀 Project: Configure Virtual Machines in Azure
 
 A comprehensive, one-line summary of what this project does.
 
@@ -11,12 +11,12 @@ A comprehensive, one-line summary of what this project does.
 - [License](#license)
 
 ## 🔍 About the Project
-Provide a detailed description of your project here. Explain the problem it solves, why you built it, and the technologies used (e.g., Python, React, Docker).
+Configure Virtual Machine in Azure within resource group. Create two Virtual Machines to create a lab where I test ping between VM. 
 
 ## ✨ Features
-- **Feature 1:** Brief description of what this does.
-- **Feature 2:** Brief description of what this does.
-- **Feature 3:** Brief description of what this does.
+- **Feature 1:** Create a Resource Group.
+- **Feature 2:** Create a Windows 10 Virtual Machine(VM).
+- **Feature 3:** Create a Linux(Ubuntu)VM.
 
 ## 🚀 Getting Started
 Provide step-by-step instructions on how to get a local copy of your project up and running.
