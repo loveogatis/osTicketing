@@ -1,6 +1,9 @@
 # Azure
-# 🚀 Project: Configure Virtual Machines in Azure
 
+# 🚀 Project: Configure Virtual Machines in Azure
+<p align="center"> 
+	<img src="azure.png" height="50%" width="50%" alt="Resource Groups"/> 
+</p>
 
  📋 Table of Contents
 - [About the Project](#about-the-project)
