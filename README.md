@@ -57,7 +57,11 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 -Create a from the same resource group & same network group
 
 <p align="center">
-<img src="1-create-resource.png" height="80%" width="80%" alt="Resource Group"/> 
+<img src="3-linux-vm.png" height="80%" width="80%" alt="Resource Group"/> 
+</p>
+
+<p align="center">
+<img src="3-linux-vm.png" height="80%" width="80%" alt="Resource Group"/> 
 </p>
 
 <h3>Step 3: Recap and Check Virtual Network & Subnet allow</h3>
