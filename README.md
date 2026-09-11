@@ -49,7 +49,7 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 
 
 <p align="center">
-<img src="1-create-resource.png" height="80%" width="80%" alt="Resource Group"/> 
+<img src="2-create-vm.png" height="80%" width="80%" alt="Resource Group"/> 
 </p>
 
 <h3>Step 3: Create a Linux(Ubuntu)VM</h3>
