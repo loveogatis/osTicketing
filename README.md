@@ -70,7 +70,7 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 	- Ensure both are under the same Virtual Network/Subnet
 
 <p align="center">
-<img src="3-linux-vm.png" height="80%" width="80%" alt="Resource Group"/> 
+<img src="5-final.png" height="80%" width="80%" alt="Resource Group"/> 
 </p>
 
 ## 💡 Next Project
