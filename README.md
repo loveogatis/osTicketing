@@ -41,19 +41,20 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 	<img src="1-create-resource.png" height="80%" width="80%" alt="Resource Groups"/> 
 </p> 
 
-<h3>Step 2: Create a Windows 10 Virtual Machine(VM)</h3>
+<h3>Step 2: Create a Windows 10 Virtual Machine (VM) </h3>
 
-- 
-	- 
+-select the previously created Resource Group
+
+-allow it to create a new Virtual Network (Vnet) and Subnet
+
 
 <p align="center">
 <img src="1-create-resource.png" height="80%" width="80%" alt="Resource Group"/> 
 </p>
 
 <h3>Step 3: Create a Linux(Ubuntu)VM</h3>
-
-- 
-	-  
+	
+-Create a from the same resource group & same network group
 
 <p align="center">
 <img src="1-create-resource.png" height="80%" width="80%" alt="Resource Group"/> 
