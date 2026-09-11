@@ -66,10 +66,12 @@ Get started Azure here: https://azure.microsoft.com/en-us/pricing/purchase-optio
 
 <h3>Step 3: Recap and Check Virtual Network & Subnet allow</h3>
 
-- 
-	- 
+- Double check both VM's
+	- Ensure both are under the same Virtual Network/Subnet
 
-
+<p align="center">
+<img src="3-linux-vm.png" height="80%" width="80%" alt="Resource Group"/> 
+</p>
 
 ## 💡 Next Project
 
